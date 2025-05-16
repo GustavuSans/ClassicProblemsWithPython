@@ -1,0 +1,1 @@
+## Exercícios com base do livro Problemas Clássícos da Ciência da Computação com Python
